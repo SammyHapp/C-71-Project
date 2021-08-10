@@ -1,0 +1,64 @@
+.achievments_head {
+	font-size: 20px;
+	padding: 6px 22px;
+	border-radius: 10px;
+	margin-bottom: 15px;
+	width: 100%;
+	display: inline-block;
+}
+
+.achievments_head i {
+	float: right;
+}
+
+.achievments_head span {
+	color: #ff7700;
+}
+
+.img_1 {
+	margin-left: 410px;
+}
+
+.h4_swim {
+	margin-left: 480px;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+
+.school_li {
+	margin-top: 13px;
+}
+
+.school_li h4 {
+	border-bottom: 1px solid white;
+	padding: 8px;
+}
+
+.school_li img {
+	border-radius: 25px
+}
+
+.school_li p {
+	margin-top: 10px
+}
+
+
+.pool_li {
+	margin-top: 13px
+}
+
+.pool_li h4 {
+	border-bottom: 1px solid white;
+	padding: 8px;
+}
+
+.pool_li img {
+	border-radius: 25px
+}
+
+.pool_li p {
+	margin-top: 10px
+}
